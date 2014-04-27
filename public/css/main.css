@@ -1,0 +1,18 @@
+	* {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	body{
+		/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+		/*font-weight: 300;*/
+		/*background: #252122;*/
+		background: #eee;
+	}
+
+.navbar-default{
+	background-color: white;
+}
